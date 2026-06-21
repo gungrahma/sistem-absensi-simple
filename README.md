@@ -1,8 +1,8 @@
 # Sistem Absensi Klinik
 
-A simple attendance management system built with Laravel, designed for small clinic operations. Employees can clock in and clock out daily, while administrators monitor attendance records per date.
+A simple attendance management system built with Laravel 13, designed for small clinic operations. Employees can clock in and clock out daily, while administrators monitor attendance records per date.
 
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwind-css&logoColor=white)
@@ -29,7 +29,7 @@ A simple attendance management system built with Laravel, designed for small cli
 
 | Layer       | Tools                                                    |
 | ----------- | -------------------------------------------------------- |
-| Backend     | PHP 8.2+, Laravel 11, Eloquent ORM, Vite                |
+| Backend     | PHP 8.3+, Laravel 13, Eloquent ORM, Vite                |
 | Database    | MySQL 5.7+ / MariaDB                                     |
 | Frontend    | Blade templates, Tailwind CSS 3, Alpine.js              |
 | Notifications | SweetAlert 2                                           |
@@ -39,7 +39,7 @@ A simple attendance management system built with Laravel, designed for small cli
 
 ## Requirements
 
-- PHP **8.2** or higher with extensions: `pdo`, `mbstring`, `openssl`, `tokenizer`, `xml`, `ctype`, `json`, `bcmath`
+- PHP **8.3** or higher with extensions: `pdo`, `mbstring`, `openssl`, `tokenizer`, `xml`, `ctype`, `json`, `bcmath`
 - Composer 2.x
 - Node.js 18+ & npm
 - MySQL 5.7+ or MariaDB
